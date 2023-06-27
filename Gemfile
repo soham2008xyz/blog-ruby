@@ -24,7 +24,7 @@ gem 'jbuilder', '~> 2.11'
 gem 'sdoc', '~> 2.6.1', group: :doc
 
 # Use ActiveModel has_secure_password
-gem 'bcrypt', '~> 3.1.18'
+gem 'bcrypt', '~> 3.1.19'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
