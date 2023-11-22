@@ -76,7 +76,7 @@ GEM
       mutex_m
       tzinfo (~> 2.0)
     base64 (0.2.0)
-    bcrypt (3.1.19)
+    bcrypt (3.1.20)
     bigdecimal (3.1.4)
     bindex (0.8.1)
     builder (3.2.4)
@@ -232,7 +232,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bcrypt (~> 3.1.19)
+  bcrypt (~> 3.1.20)
   byebug
   coffee-rails (~> 5.0.0)
   jbuilder (~> 2.11)
